@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # About me
 <p><h2>👋🏻Hey! I'm Sayfiddin Mardayev. I'm Backend developer.</h2></p>
 
